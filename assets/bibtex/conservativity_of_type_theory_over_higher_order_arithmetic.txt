@@ -1,0 +1,8 @@
+@Misc{vandenbergotten2023conservativity,
+    title = {Conservativity of Type Theory over Higher-order Arithmetic},
+    author = {Benno van den Berg and Daniël Otten},
+    year = {2023},
+    eprint = {2308.15288},
+    archivePrefix = {arXiv},
+    primaryClass = {math.LO}
+}

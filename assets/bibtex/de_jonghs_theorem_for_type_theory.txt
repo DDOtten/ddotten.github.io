@@ -1,0 +1,7 @@
+@MastersThesis{otten2022dejongh,
+    title = {De {J}ongh’s Theorem for Type Theory},
+    author = {Dani\"el Otten},
+    year = {2022},
+    school = {University of Amsterdam},
+    url = {https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf}
+}

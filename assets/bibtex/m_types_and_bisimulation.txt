@@ -1,0 +1,8 @@
+@MastersThesis{otten2020mtypes,
+    title = {M-types and Bisimulation},
+    author = {Dani\"el Otten},
+    year = {2020},
+    school = {Leiden University},
+    url = {https://theses.liacs.nl/pdf/2019-2020-OttenDD.pdf},
+    type = {Bachelor's Thesis}
+}
