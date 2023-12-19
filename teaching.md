@@ -10,6 +10,10 @@ layout: page
     Student: Xavier Ripoll Echeveste. \
     MSc Logic Thesis, *University of Amsterdam*, 2023.
 
+# Research Projects
+
+- [**Path Categories.**](/path_categories.md)
+
 # Master Courses
 
 | Spring 2024 <br/> Spring 2023 <br/> Spring 2022 | [**Type Theory.**](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110132) <br/> MSc Logic, *University of Amsterdam.* <br/> Lecturer: Benno van den Berg. |
