@@ -12,7 +12,9 @@ layout: page
 
 # Research Projects
 
-- [**Path Categories.**](/path_categories.md)
+- [**Path Categories.**](/path_categories.md) \
+    A research project for master students with the goal to describe the literature on path categories in a unified and structured way. \
+    MSC Logic Research *University of Amsterdam*, 2024 
 
 # Master Courses
 
