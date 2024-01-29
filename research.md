@@ -35,7 +35,7 @@ layout: page
   [slides](https://events.illc.uva.nl/llama/slides/otten-2024.pdf){: .button}
 - [**ESSLLI.**](https://2023.esslli.eu/)
   *Ljubljana,* 1--11 August 2023.
-- [**CT.**](https://sites.uclouvain.be/ct2023/)
+- [**CT 2023.**](https://sites.uclouvain.be/ct2023/)
   *Louvain-la-Neuve,* 2--8 July 2023.
 - [**Logic PhD-Day.**](https://www.verenigingvoorlogica.nl/nl/PhD-Day/)
   *Groningen,* 23 June 2023. <mark>organizer</mark>
@@ -59,7 +59,7 @@ layout: page
   *Utrecht,* 7--12 November 2022.
 - [**Workshop on Algebraic Weak Factorisation Systems.**](https://dutchcats.github.io/)
   *Amsterdam,* 2 May 2022. <mark>organizer</mark>
-- [**DutchCATS**](https://dutchcats.github.io/) *Amsterdam,* 27 October 2021. \
+- [**DutchCATS.**](https://dutchcats.github.io/) *Amsterdam,* 27 October 2021. \
   Talk: M-types and Bisimulation.
   [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button}
 - [**TYPES 2021.**](https://types21.liacs.nl/)
