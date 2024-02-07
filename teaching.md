@@ -7,14 +7,18 @@ layout: page
 # Supervision
 
 - [**Alternative Impredicative Encodings of Inductive Types.**](https://msclogic.illc.uva.nl/current-students/graduation/Defenses-2023/) \
-    Student: Xavier Ripoll Echeveste. \
-    MSc Logic Thesis, *University of Amsterdam*, 2023.
+    MSc Logic Thesis, *University of Amsterdam*, 2023. \
+    Student: Xavier Ripoll Echeveste.
 
 # Research Projects
 
 - [**Path Categories.**](/path_categories.md) \
-    A research project for master students with the goal to describe the literature on path categories in a unified and structured way. \
+    A project for master students with the goal to describe the literature on path categories in a unified and structured way. \
     MSC Logic Research Project, *University of Amsterdam*, 2024.
+- **Coalgebras.** \
+    A reading course on Jan Rutten's *The Method of Coalgebra*, Bart Jacobs' *Introduction to Coalgebra*, and Yde Venema's *Topics in Modal Logic*. \
+    MSC Logic Research Project, *University of Amsterdam*, 2024. \
+    Student: Liam Chung.
 
 # Master Courses
 

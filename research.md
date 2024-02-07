@@ -7,9 +7,9 @@ layout: page
 # Publications
 
 - [**Conservativity of Type Theory over Higher-order Arithmetic.**](https://arxiv.org/abs/2308.15288) \
-    Accepted at [CSL 2024](https://csl2024.github.io/Home/#accepted%20papers). \
     Coauthor: Benno van den Berg. \
-    [paper](https://arxiv.org/pdf/2308.15288.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](assets/bibtex/conservativity_of_type_theory_over_higher_order_arithmetic.txt){: .button}
+    [LIPIcs, Volume 288, CSL 2024](https://doi.org/10.4230/LIPIcs.CSL.2024.44). \
+    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol288-csl2024/LIPIcs.CSL.2024.44/LIPIcs.CSL.2024.44.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](assets/bibtex/conservativity_of_type_theory_over_higher_order_arithmetic.txt){: .button}
 
 # Theses
 
