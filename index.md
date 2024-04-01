@@ -13,9 +13,8 @@ These results allows for flexibility: simple versions are easier to model and st
 An example of such a result is our paper: [Conservativity of Type Theory over Higher-order Arithmetic](https://arxiv.org/abs/2308.15288).
 Other interests include: higher-order logic, constructive mathematics, cyclic proofs, proof assistants, and homotopy theory.
 
-# Contact Info
+# Contact Information
 
-<script>document.write('<a href="ma&#105lto:'+'d'+'an%69e'+'l'+'@'+'ot'+'t'+'en'+'.'+'c'+'o'+'">dan'+'&#105el'+'@'+'ott'+'en.co</a>');</script> \\
 Office F1.22C \
 Science Park 107 \
 1098 XG Amsterdam \
