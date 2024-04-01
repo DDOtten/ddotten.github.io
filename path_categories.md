@@ -33,19 +33,16 @@ Supervisors: [Benno van den Berg](https://staff.fnwi.uva.nl/b.vandenberg3/) and 
 # Literature
 
 * Papers:
-  * Benno van den Berg, Ieke Moerdijk 2018 - [**Exact Completion of Path Categories and Algebraic Set Theory: Part I: Exact Completion of Path Categories.**](https://www.sciencedirect.com/science/article/pii/S0022404917302827)
-  * Benno van den Berg 2018 - [**Path Categories and Propositional Identity Types.**](https://dl.acm.org/doi/abs/10.1145/3204492)
-  * Benno van den Berg 2020 - [**Univalent Polymorphism.**](https://www.sciencedirect.com/science/article/abs/pii/S0168007220300178)
+  * Benno van den Berg, Ieke Moerdijk 2018 - **[Exact Completion of Path Categories and Algebraic Set Theory: Part I: Exact Completion of Path Categories](https://www.sciencedirect.com/science/article/pii/S0022404917302827).**
+  * Benno van den Berg 2018 - **[Path Categories and Propositional Identity Types](https://dl.acm.org/doi/abs/10.1145/3204492).**
+  * Benno van den Berg 2020 - **[Univalent Polymorphism](https://www.sciencedirect.com/science/article/abs/pii/S0168007220300178).**
 * Master Theses:
-  * Nils Donselaar 2016 - [**Uniform Kan Cubical Sets as a
-Path Category.**](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/22925/3476022MScThesisFinal.pdf?sequence=2)
-  * Menno de Boer 2018 - [**The Gluing Construction for Path
-Categories.**](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29726/Masterscriptie_MWEdeBoer.pdf?sequence=2)
-  * Matteo Spadetto 2019 - [**Generalised Gluing and Exact Completion
-of Path Categories.**](https://spadetto.github.io/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf)
-  * Evio Paauw 2021 - [**Path Categories and ∞-groupoids.**](https://www.ebpaauw.com/math/pathcategoriesandinfinitygroupoids.pdf)
+  * Nils Donselaar 2016 - **[Uniform Kan Cubical Sets as a Path Category](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/22925/3476022MScThesisFinal.pdf?sequence=2).**
+  * Menno de Boer 2018 - **[The Gluing Construction for Path Categories](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/29726/Masterscriptie_MWEdeBoer.pdf?sequence=2).**
+  * Matteo Spadetto 2019 - **[Generalised Gluing and Exact Completion of Path Categories](https://spadetto.github.io/Generalised_Gluing_and_Exact_Completion_of_Path_Categories___Current_Version.pdf).**
+  * Evio Paauw 2021 - **[Path Categories and ∞-groupoids](https://www.ebpaauw.com/math/pathcategoriesandinfinitygroupoids.pdf).**
 * Notes:
-  * Taichi Uemura 2019 - [**Fibred Path Categories.**](assets/papers/taichi_uemara_fibered_path_categories.pdf)
-  * Martijn den Besten 2020 - [**On Homotopy Exponentials in Path Categories.**](https://arxiv.org/abs/2010.14313)
-  * Benno van den Berg, Martijn den Besten 2021 - [**Quadratic Type Checking for Objective Type Theory.**](https://arxiv.org/abs/2102.00905)
-  * Evio Paauw 2021 - [**Path Categories and Inverse Diagrams.**](https://www.ebpaauw.com/math/pathcategoriesandinversediagrams.pdf)
+  * Taichi Uemura 2019 - **[Fibred Path Categories](assets/papers/taichi_uemara_fibered_path_categories.pdf).**
+  * Martijn den Besten 2020 - **[On Homotopy Exponentials in Path Categories](https://arxiv.org/abs/2010.14313).**
+  * Benno van den Berg, Martijn den Besten 2021 - **[Quadratic Type Checking for Objective Type Theory](https://arxiv.org/abs/2102.00905).**
+  * Evio Paauw 2021 - **[Path Categories and Inverse Diagrams](https://www.ebpaauw.com/math/pathcategoriesandinversediagrams.pdf).**

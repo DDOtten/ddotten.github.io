@@ -6,35 +6,18 @@ university: University of Amsterdam
 email: daniel@otten.co
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: daniel otten, daniël otten, ddotten, dotten, type theory, category theory, higher-order logic, propositional type theory, constructive mathematics, conservativity.
 description: I am a PhD candidate at the University of Amsterdam, interested in type theory, category theory, higher-order logic, and constructive mathematics.
 canonical: https://otten.co
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Links
 orcid: https://orcid.org/0000-0003-2557-3959
-#google_scholar: https://scholar.google.com/
 cv: assets/files/curriculum_vitae.pdf
 github: https://github.com/DDOtten
-#linkedin: https://www.linkedin.com/
 
-# Images (e.g., your profile picture and your website's favicon)
+# Images
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-#font: "Serif"
-font: "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
 
 # The following files will be removed from the generated website.
 exclude:
