@@ -27,7 +27,7 @@ body {
     scrollbar-gutter: stable;
     font: $font;
     font-size: large;
-    font-weight: 400;
+    font-weight: 500;
     margin: 0px auto;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -40,10 +40,10 @@ header {
 }
 
 nav {
-    font-size: 35px;
-    font-weight: bold;
+    font-size: 40px;
+    font-weight: 700;
     background-color: $darkgray;
-    padding: 10px 10px 15px 10px;
+    padding: 15px 10px 20px 10px;
     margin:  10px 10px 60px 10px;
     border-radius: 10px;
 }
@@ -70,11 +70,11 @@ a {
     color: $gray;
     background-color: white;
     display: inline-block;
-    padding: 1px 6px 5px 6px;  
+    padding: 1px 4px 5px 4px;  
     border-radius: 10px;
     font-weight: 600;
     text-align: center;
-    line-height: 15px;
+    line-height: 1;
 }
 
 .button {
@@ -90,6 +90,23 @@ a {
 mark {
     @include box;
     background-color: $yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0px;
+}
+
+td {
+    text-align: left;
+    padding: 5px 10px;
+    &:first-child {
+        text-align: right;
+        vertical-align: top;
+        width: 115px;
+        border-right: 1px solid white;
+    }
 }
 
 blockquote {
@@ -111,30 +128,10 @@ code {
     font: $monofont;
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 0px;
-}
-
-td {
-    text-align: left;
-    padding: 5px 10px;
-    &:first-child {
-        text-align: right;
-        vertical-align: top;
-        width: 115px;
-        border-right: 1px solid white;
+@media screen and (max-height: 800px) {
+    #img {
+        display: none;
     }
-}
-
-small {
-    font-size: 11px;
-}
-
-hr {
-    background: white;
-    height: 1px;
 }
 
 @media screen and (max-width: 1200px) {
@@ -143,6 +140,7 @@ hr {
         width: auto;
         margin: 0px;
     }
+
     section {
         padding-left: 300px;
         float: none;
@@ -152,10 +150,6 @@ hr {
 }
 
 @media screen and (max-width: 900px) {
-    #img {
-        display: none;
-    }
-
     body {
         word-wrap: break-word;
         padding: 15px;
@@ -163,16 +157,31 @@ hr {
         margin: 0px;
     }
 
-    header, section {
+    header {
+        float: none;
+        position: static;
+        width: auto;
+        padding: 0px;
+        margin:  0px;
+        display: flex;
+        flex-flow: column;
+    }
+
+    nav {
+        font-size: 30px;
+        padding: 5px 5px 10px 5px;
+        margin:  10px 0px 10px 0px;
+    }
+
+    section {
         float: none;
         position: static;
         width: auto;
         padding: 0px;
     }
 
-    header {
-        display: flex;
-        flex-flow: column;
+    #img {
+        display: none;
     }
 
     #name {
@@ -181,13 +190,4 @@ hr {
     #nav {
         order: 2;
     }
-
-    nav {
-        margin:  10px 0px 10px 0px;
-    }
-
-    header {
-        padding: 0px;
-        margin: 0px;
-    }
-  }
+}
