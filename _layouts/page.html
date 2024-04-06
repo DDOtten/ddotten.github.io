@@ -15,28 +15,29 @@
   </head>
 
   <body>
-    <div class="wrapper">
-      <header>
-        <nav><h1 style="font-size: 24pt">
-          <!-- page navigation with the current page underlined -->
-          <a href="/">{% if page.url == '/' %}<u>{% endif %}Home{% if page.url == '/' %}</u>{% endif %}</a><br>
-          <a href="/research">{% if page.url == '/research' %}<u>{% endif %}Research{% if page.url == '/research' %}</u>{% endif %}</a><br>
-          <a href="/teaching">{% if page.url == '/teaching' %}<u>{% endif %}Teaching{% if page.url == '/teaching' %}</u>{% endif %}</a><br>
-        </h1></nav>
-        <img src="{{site.avatar}}" width=120px height=150px/>
+    <header>
+      <div id="nav"><nav>
+        <!-- page navigation with the current page underlined -->
+        <a href="/">{% if page.url == '/' %}<u>{% endif %}Home{% if page.url == '/' %}</u>{% endif %}</a><br>
+        <a href="/research">{% if page.url == '/research' %}<u>{% endif %}Research{% if page.url == '/research' %}</u>{% endif %}</a><br>
+        <a href="/teaching">{% if page.url == '/teaching' %}<u>{% endif %}Teaching{% if page.url == '/teaching' %}</u>{% endif %}</a><br>
+      </nav></div>
+      <div id="name">
+        <div id="img"><img src="{{site.avatar}}" width=120px height=150px/></div>
+
+        <h1>{{site.title}}</h1>
         
-        <h2>{{site.title}}</h2>
-        
-        <p>{{site.description}}</p>
+        <div id="description"><p>{{site.description}}</p></div>
         
         <!-- obfuscated email -->
-        <script>document.write('<a href="ma&#105lto:'+'d'+'an%69e'+'l'+'@'+'ot'+'t'+'en'+'.'+'c'+'o'+'">dan'+'&#105el'+'@'+'ott'+'en.co</a>');</script><br><br><br>
-      </header>
-      
-      <section>
-        {{content}}
-      </section>
-    </div>
+        <script>document.write('<a href="ma&#105lto:'+'d'+'an%69e'+'l'+'@'+'ot'+'t'+'en'+'.'+'c'+'o'+'">dan'+'&#105el'+'@'+'ott'+'en.co</a>');</script><br><br>
+      </div>
+    </header>
+
+    <section>
+      {{content}}
+    </section>
+    
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   </body>
 </html>
