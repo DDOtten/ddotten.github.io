@@ -24,6 +24,12 @@ layout: page
 
 # Events
 
+- **[CT 2024](https://www.usc.gal/regaca/ct2024/).**
+  *Santiago de Compostela,* 23--29 June 2024.
+- **[TYPES 2024](https://types2024.itu.dk/).**
+  *Copenhagen,* 10--14 June 2024. \
+  Talk: Models for Axiomatic Type Theory.
+  [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button}
 - **[EuroProofNet WG6](https://europroofnet.github.io/wg6-leuven/) and [HoTT/UF](https://hott-uf.github.io/2024/).**
   *Leuven,* 2--5 April 2024. \
   Talk: Models for Axiomatic Type Theory.
