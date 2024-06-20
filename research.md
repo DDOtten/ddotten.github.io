@@ -24,6 +24,8 @@ layout: page
 
 # Events
 
+- **[CiE 2024](https://events.illc.uva.nl/CiE/CiE2024/Main/).**
+  *Amsterdam,* 8--12 July 2024. <mark>organizer</mark>
 - **[CT 2024](https://www.usc.gal/regaca/ct2024/).**
   *Santiago de Compostela,* 23--29 June 2024.
 - **[TYPES 2024](https://types2024.itu.dk/).**
