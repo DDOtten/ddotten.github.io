@@ -28,6 +28,8 @@ layout: page
   *Amsterdam,* 8--12 July 2024. <mark>organizer</mark>
 - **[CT 2024](https://www.usc.gal/regaca/ct2024/).**
   *Santiago de Compostela,* 23--29 June 2024.
+- **[Dutch Logic PhD Day 2024](https://verenigingvoorlogica.nl/en/PhD-Day/).**
+  *Amsterdam,* 21 June 2024.
 - **[TYPES 2024](https://types2024.itu.dk/).**
   *Copenhagen,* 10--14 June 2024. \
   Talk: Models for Axiomatic Type Theory.
@@ -48,7 +50,7 @@ layout: page
   *Ljubljana,* 1--11 August 2023.
 - **[CT 2023](https://sites.uclouvain.be/ct2023/).**
   *Louvain-la-Neuve,* 2--8 July 2023.
-- **[Logic PhD-Day](https://www.verenigingvoorlogica.nl/nl/PhD-Day/).**
+- **[Logic PhD-Day 2024](https://www.verenigingvoorlogica.nl/nl/PhD-Day/).**
   *Groningen,* 23 June 2023. <mark>organizer</mark>
 - **[TYPES 2023](https://types2023.webs.upv.es/).**
   *Valentia,* 12--15 June 2023. \
