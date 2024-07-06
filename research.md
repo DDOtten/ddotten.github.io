@@ -93,6 +93,6 @@ layout: page
 # Education
 
 | Since 2022 | **[PhD Candidate](https://www.illc.uva.nl/People/person/5117/D-D-Otten).** <br> ILLC, *University of Amsterdam.* <br/> Supervisors: Benno van den Berg, Herman Geuvers. |
-| 2020--2022 | **[Master of Logic](https://msclogic.illc.uva.nl/).** <br/> *University of Amsterdam.* <mark>cum laude</mark> <br/> - Mathematics Track, <br/> - Computation Track. |
-| 2016--2020 | **[Bachelor of Mathematics](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde).** <br/> *Leiden University.* <mark>cum laude</mark> |
-| 2016--2020 | **[Bachelor of Computer Science](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/informatica).** <br/> *Leiden University.* <mark>cum laude</mark> |
+| 2020--2022 | **[Master of Logic](https://msclogic.illc.uva.nl/).** <br/> *University of Amsterdam.* <br/> <mark>cum laude</mark> <br/> - Track of Mathematics, <br/> - Track of Computation. |
+| 2016--2020 | **[Bachelor of Mathematics](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/wiskunde).** <br/> *Leiden University.* <br/> <mark>cum laude</mark> |
+| 2016--2020 | **[Bachelor of Computer Science](https://www.universiteitleiden.nl/onderwijs/opleidingen/bachelor/informatica).** <br/> *Leiden University.* <br/> <mark>cum laude</mark> |
