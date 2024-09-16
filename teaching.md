@@ -6,6 +6,9 @@ layout: page
 
 # Supervisor
 
+- **Simplicial Homotopy Type Theory.** \
+    MSc Mathematics Thesis, *University of Amsterdam*, 2024. \
+    Student: George Magafossis.
 - **[Path Categories](/path_categories.md).** \
     A project for master students with the goal to describe the literature on path categories in a unified and structured way. \
     MSC Logic Research Project, *University of Amsterdam*, 2024.
