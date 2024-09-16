@@ -24,6 +24,8 @@ layout: page
 
 # Events
 
+- **[PSSL 107](https://b-starkenburg.github.io/PSSL-2024/).**
+  *Leiden,* 15--17 November 2024. <mark>organizer</mark>
 - **[CiE 2024](https://events.illc.uva.nl/CiE/CiE2024/Main/).**
   *Amsterdam,* 8--12 July 2024. <mark>organizer</mark>
 - **[CT 2024](https://www.usc.gal/regaca/ct2024/).**
