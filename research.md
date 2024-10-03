@@ -25,9 +25,9 @@ layout: page
 # Events
 
 - **[PSSL 107](https://b-starkenburg.github.io/PSSL-2024/).**
-  *Leiden,* 15--17 November 2024. <mark>organizer</mark>
+  *Leiden,* 15--17 November 2024. <mark>organiser</mark>
 - **[CiE 2024](https://events.illc.uva.nl/CiE/CiE2024/Main/).**
-  *Amsterdam,* 8--12 July 2024. <mark>organizer</mark>
+  *Amsterdam,* 8--12 July 2024. <mark>organiser</mark>
 - **[CT 2024](https://www.usc.gal/regaca/ct2024/).**
   *Santiago de Compostela,* 23--29 June 2024.
 - **[Dutch Logic PhD Day 2024](https://verenigingvoorlogica.nl/en/PhD-Day/).**
@@ -53,14 +53,14 @@ layout: page
 - **[CT 2023](https://sites.uclouvain.be/ct2023/).**
   *Louvain-la-Neuve,* 2--8 July 2023.
 - **[Logic PhD-Day 2024](https://www.verenigingvoorlogica.nl/nl/PhD-Day/).**
-  *Groningen,* 23 June 2023. <mark>organizer</mark>
+  *Groningen,* 23 June 2023. <mark>organiser</mark>
 - **[TYPES 2023](https://types2023.webs.upv.es/).**
   *Valentia,* 12--15 June 2023. \
   Talk: Conservativity of Type Theory over Higher-order Arithmetic.
   [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides_types.pdf){: .button}
 - **[The Strength of Weak Type Theory](https://dutchcats.github.io/).**
   *Amsterdam,* 11--12 May 2023.
-  <mark>organizer</mark> \
+  <mark>organiser</mark> \
   Talk: Models for Axiomatic Type Theory.
   [slides](assets/slides/models_for_propositional_type_theory_slides.pdf){: .button}
 - **[EuroProofNet WG6](https://europroofnet.github.io/wg6-vienna/) and [HoTT/UF](https://hott-uf.github.io/2023/).**
@@ -73,7 +73,7 @@ layout: page
 - **[The Proof Society Autumn School](https://uswpt.sites.uu.nl/).**
   *Utrecht,* 7--12 November 2022.
 - **[Workshop on Algebraic Weak Factorisation Systems](https://dutchcats.github.io/).**
-  *Amsterdam,* 2 May 2022. <mark>organizer</mark>
+  *Amsterdam,* 2 May 2022. <mark>organiser</mark>
 - **[DutchCATS](https://dutchcats.github.io/).**
   *Amsterdam,* 27 October 2021. \
   Talk: M-types and Bisimulation.
