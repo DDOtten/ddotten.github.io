@@ -33,6 +33,7 @@ layout: page
 - **[The Proof Society 2025](https://proof2025.ugent.be/).**
     *Ghent,* 1--5 September 2025. \
     Talk: Matching (Co)patterns with Cyclic Proofs.
+    [slides](assets/slides/cyclic_type_theory_slides_the_proof_society.pdf){: .button}
 - **[CT 2025](https://conference.math.muni.cz/ct2025/).**
     *Brno,* 13--19 July 2025.
 - **[TYPES 2025](https://msp.cis.strath.ac.uk/types2025/).**
