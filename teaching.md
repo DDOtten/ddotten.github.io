@@ -9,7 +9,7 @@ layout: page
 - **A Realisability Model of Dependent Type Theory with Sizes.** \
     MSC Logic Thesis, *University of Amsterdam*, 2025. \
     Student: Bas Laarakker.
-- **Simplicial Homotopy Type Theory.** \
+- **[Simplicial Homotopy Type Theory](https://scripties.uba.uva.nl/search?id=record_55571).** \
     MSc Mathematics Thesis, *University of Amsterdam*, 2024. \
     Student: George Magafossis.
 - **[Path Categories](/path_categories.md).** \
@@ -19,7 +19,7 @@ layout: page
     A reading course on Jan Rutten's *The Method of Coalgebra*, Bart Jacobs' *Introduction to Coalgebra*, and Yde Venema's *Topics in Modal Logic*. \
     MSC Logic Research Project, *University of Amsterdam*, 2024. \
     Student: Liam Chung.
-- **[Alternative Impredicative Encodings of Inductive Types](https://msclogic.illc.uva.nl/current-students/graduation/Defenses-2023/).** \
+- **[Alternative Impredicative Encodings of Inductive Types](https://eprints.illc.uva.nl/id/eprint/2272/1/MoL-2023-22.text.pdf).** \
     MSc Logic Thesis, *University of Amsterdam*, 2023. \
     Student: Xavier Ripoll Echeveste.
 

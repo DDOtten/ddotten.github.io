@@ -6,6 +6,10 @@ layout: page
 
 # Publications
 
+- **The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories.** \
+    Accepted at CSL 2026. \
+    Coauthor: Matteo Spadetto.
+    [paper](https://arxiv.org/abs/2503.15431){: .button}
 - **[Conservativity of Type Theory over Higher-order Arithmetic](https://arxiv.org/abs/2308.15288).** \
     [LIPIcs, Volume 288, CSL 2024](https://doi.org/10.4230/LIPIcs.CSL.2024.44). \
     Coauthor: Benno van den Berg. \

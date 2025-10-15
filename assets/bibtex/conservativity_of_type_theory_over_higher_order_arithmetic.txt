@@ -1,6 +1,6 @@
 @InProceedings{ottenvandenberg2024conservativityoverhah,
   author =	{Otten, Dani\"{e}l and van den Berg, Benno},
-  title =	{{Conservativity of Type Theory over Higher-Order Arithmetic}},
+  title =	{Conservativity of Type Theory over Higher-Order Arithmetic},
   booktitle =	{32nd EACSL Annual Conference on Computer Science Logic (CSL 2024)},
   pages =	{44:1--44:23},
   series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
