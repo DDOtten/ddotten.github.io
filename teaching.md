@@ -4,8 +4,11 @@ title: "Teaching"
 layout: page
 ---
 
-# Supervisor
+# As Supervisor
 
+- **A Realisability Model of Dependent Type Theory with Sizes.** \
+    MSC Logic Thesis, *University of Amsterdam*, 2025. \
+    Student: Bas Laarakker.
 - **Simplicial Homotopy Type Theory.** \
     MSc Mathematics Thesis, *University of Amsterdam*, 2024. \
     Student: George Magafossis.
@@ -20,13 +23,13 @@ layout: page
     MSc Logic Thesis, *University of Amsterdam*, 2023. \
     Student: Xavier Ripoll Echeveste.
 
-# Lecturer
+# As Lecturer
 
 | Fall 2024 | **[Logic and Computability](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119724).** <br/> BSc Artificial Inteligence, *University of Amsterdam.* <br/> Colecturer: Rodrigo Almeida. |
 
-# Teaching Assistant
+# As Teaching Assistant
 
-| Spring 2024 <br/> Spring 2023 <br/> Spring 2022 | **[Type Theory](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110132).** <br/> MSc Logic, *University of Amsterdam.* <br/> Lecturer: Benno van den Berg. |
+| Spring 2025 <br/> Spring 2024 <br/> Spring 2023 <br/> Spring 2022 | **[Type Theory](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110132).** <br/> MSc Logic, *University of Amsterdam.* <br/> Lecturer: Benno van den Berg. |
 | Fall 2022 | **[Homotopy Type Theory](https://homotopytypetheory.org/).** <br/> MSc Logic, *University of Amsterdam.* <br/> Lecturer: Benno van den Berg. |
 | Fall 2024 <br/> Fall 2023 <br/> Fall 2021| **[Category Theory](https://elo.mastermath.nl/mod/page/view.php?id=333).** <br/> MSc Mathematics, *Mastermath.* <br/> Lecturer: Benno van den Berg. |
 | Spring 2021 <br/> Fall 2020 | **[Seminar Presenting and Communicating](https://studiegids.universiteitleiden.nl/en/courses/99656/seminarium-presenteren-en-communiceren).** <br/> BSc Mathematics, *Leiden University.* <br/> Lecturers: Peter Bruin, Hans Finkelnberg, Mark Roelands. |

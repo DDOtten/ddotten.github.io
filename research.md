@@ -24,64 +24,75 @@ layout: page
 
 # Events
 
+- **[International School on Logical Frameworks and Proof Systems Interoperability](https://europroofnet.github.io/LFPSI25/).**
+    *Orsay,* 8--11 September 2025.
+- **[The Proof Society 2025](https://proof2025.ugent.be/).**
+    *Ghent,* 1--5 September 2025. \
+    Talk: Matching (Co)patterns with Cyclic Proofs.
+- **[CT 2025](https://conference.math.muni.cz/ct2025/).**
+    *Brno,* 13--19 July 2025.
+- **[TYPES 2025](https://msp.cis.strath.ac.uk/types2025/).**
+    *Glasgow,* 9--15 June 2025. \
+    Talk: Matching (Co)patterns with Cyclic Proofs.
+    [slides](https://msp.cis.strath.ac.uk/types2025/slides/TYPES2025-slides56.pdf){: .button}
 - **[PSSL 107](https://b-starkenburg.github.io/PSSL-2024/).**
-  *Leiden,* 15--17 November 2024. <mark>organizer</mark>
+    *Leiden,* 15--17 November 2024. <mark>organizer</mark>
 - **[CiE 2024](https://events.illc.uva.nl/CiE/CiE2024/Main/).**
-  *Amsterdam,* 8--12 July 2024. <mark>organizer</mark>
+    *Amsterdam,* 8--12 July 2024. <mark>organizer</mark>
 - **[CT 2024](https://www.usc.gal/regaca/ct2024/).**
-  *Santiago de Compostela,* 23--29 June 2024.
+    *Santiago de Compostela,* 23--29 June 2024.
 - **[Dutch Logic PhD Day 2024](https://verenigingvoorlogica.nl/en/PhD-Day/).**
-  *Amsterdam,* 21 June 2024.
+    *Amsterdam,* 21 June 2024.
 - **[TYPES 2024](https://types2024.itu.dk/).**
-  *Copenhagen,* 10--14 June 2024. \
-  Talk: Models for Axiomatic Type Theory.
-  [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button}
+    *Copenhagen,* 10--14 June 2024. \
+    Talk: Models for Axiomatic Type Theory.
+    [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button}
 - **[EuroProofNet WG6](https://europroofnet.github.io/wg6-leuven/) and [HoTT/UF](https://hott-uf.github.io/2024/).**
-  *Leuven,* 2--5 April 2024. \
-  Talk: Models for Axiomatic Type Theory.
-  [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button}
+    *Leuven,* 2--5 April 2024. \
+    Talk: Models for Axiomatic Type Theory.
+    [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button}
 - **[CSL 2024](https://csl2024.github.io/Home/#).**
-  *Naples,* 19--23 February 2024. \
-  Talk: Conservativity of Type Theory over Higher-order Arithmetic.
-  [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides_csl.pdf){: .button}
+    *Naples,* 19--23 February 2024. \
+    Talk: Conservativity of Type Theory over Higher-order Arithmetic.
+    [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides_csl.pdf){: .button}
 - **[LLAMA](https://events.illc.uva.nl/llama/).**
-  *Amsterdam,* 24 January 2024. \
-  Talk: Models for Axiomatic Type Theory.
-  [slides](https://events.illc.uva.nl/llama/slides/otten-2024.pdf){: .button}
-- **[ESSLLI](https://2023.esslli.eu/).**
-  *Ljubljana,* 1--11 August 2023.
+    *Amsterdam,* 24 January 2024. \
+    Talk: Models for Axiomatic Type Theory.
+    [slides](https://events.illc.uva.nl/llama/slides/otten-2024.pdf){: .button}
+- **[ESSLLI 2023](https://2023.esslli.eu/).**
+    *Ljubljana,* 1--11 August 2023.
 - **[CT 2023](https://sites.uclouvain.be/ct2023/).**
-  *Louvain-la-Neuve,* 2--8 July 2023.
+    *Louvain-la-Neuve,* 2--8 July 2023.
 - **[Logic PhD-Day 2024](https://www.verenigingvoorlogica.nl/nl/PhD-Day/).**
-  *Groningen,* 23 June 2023. <mark>organizer</mark>
+    *Groningen,* 23 June 2023. <mark>organizer</mark>
 - **[TYPES 2023](https://types2023.webs.upv.es/).**
-  *Valentia,* 12--15 June 2023. \
-  Talk: Conservativity of Type Theory over Higher-order Arithmetic.
-  [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides_types.pdf){: .button}
+    *Valentia,* 12--15 June 2023. \
+    Talk: Conservativity of Type Theory over Higher-order Arithmetic.
+    [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides_types.pdf){: .button}
 - **[The Strength of Weak Type Theory](https://dutchcats.github.io/).**
-  *Amsterdam,* 11--12 May 2023.
-  <mark>organizer</mark> \
-  Talk: Models for Axiomatic Type Theory.
-  [slides](assets/slides/models_for_propositional_type_theory_slides.pdf){: .button}
+    *Amsterdam,* 11--12 May 2023.
+    <mark>organizer</mark> \
+    Talk: Models for Axiomatic Type Theory.
+    [slides](assets/slides/models_for_propositional_type_theory_slides.pdf){: .button}
 - **[EuroProofNet WG6](https://europroofnet.github.io/wg6-vienna/) and [HoTT/UF](https://hott-uf.github.io/2023/).**
-  *Vienna,* 22--25 April 2023.
+    *Vienna,* 22--25 April 2023.
 - **[CSL 2023](https://csl2023.mimuw.edu.pl/).**
-  *Warsaw,* 13--16 Februari 2023.
+    *Warsaw,* 13--16 Februari 2023.
 - **[DutchCATS](https://dutchcats.github.io/).**
-  *Amsterdam*, 16 January 2023. \
-  Talk: Conservativity of Type Theory over Higher-order Arithmetic. [slides](https://dutchcats.github.io/2023-01-16/Otten_20230116.pdf){: .button}
-- **[The Proof Society Autumn School](https://uswpt.sites.uu.nl/).**
-  *Utrecht,* 7--12 November 2022.
+    *Amsterdam*, 16 January 2023. \
+    Talk: Conservativity of Type Theory over Higher-order Arithmetic. [slides](https://dutchcats.github.io/2023-01-16/Otten_20230116.pdf){: .button}
+- **[The Proof Society 2022](https://uswpt.sites.uu.nl/).**
+    *Utrecht,* 7--12 November 2022.
 - **[Workshop on Algebraic Weak Factorisation Systems](https://dutchcats.github.io/).**
-  *Amsterdam,* 2 May 2022. <mark>organizer</mark>
+    *Amsterdam,* 2 May 2022. <mark>organizer</mark>
 - **[DutchCATS](https://dutchcats.github.io/).**
-  *Amsterdam,* 27 October 2021. \
-  Talk: M-types and Bisimulation.
-  [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button}
+    *Amsterdam,* 27 October 2021. \
+    Talk: M-types and Bisimulation.
+    [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button}
 - **[TYPES 2021](https://types21.liacs.nl/).**
-  *Online,* 14--18 June 2021. \
-  Talk: M-types and Bisimulation.
-  [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button}
+    *Online,* 14--18 June 2021. \
+    Talk: M-types and Bisimulation.
+    [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button}
 
 # Research Projects
 
