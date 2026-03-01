@@ -6,19 +6,19 @@ layout: page
 
 # Preprints
 
-- **Unravelling Abstract Cyclic Proofs into Proofs by Induction.** \
+- **[Unravelling Abstract Cyclic Proofs into Proofs by Induction](https://arxiv.org/abs/2602.12054).** \
   Coauthor: Lide Grotenhuis. \
-  [paper](https://arxiv.org/abs/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button}
-- **Constructing (Co)inductive Types via Large Sizes.** \
+  [paper](https://arxiv.org/pdf/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button}
+- **[Constructing (Co)inductive Types via Large Sizes](https://arxiv.org/abs/2602.18921).** \
   Coauthors: Benno van den Berg and Bastiaan Laarakker. \
-  [paper](https://arxiv.org/abs/2602.18921){: .button} [slides](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button}
+  [paper](https://arxiv.org/pdf/2602.18921){: .button} [slides](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button}
 
 # Publications
 
-- **The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories.** \
+- **[The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf).** \
     [LIPIcs, Volume 363, CSL 2026](https://doi.org/10.4230/LIPIcs.CSL.2026.38). \
     Coauthor: Matteo Spadetto. \
-    [paper](https://arxiv.org/abs/2503.15431){: .button} [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.38/metadata/bibtex){: .button}
+    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf){: .button} [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.38/metadata/bibtex){: .button}
 - **[Conservativity of Type Theory over Higher-order Arithmetic](https://arxiv.org/abs/2308.15288).** \
     [LIPIcs, Volume 288, CSL 2024](https://doi.org/10.4230/LIPIcs.CSL.2024.44). \
     Coauthor: Benno van den Berg. \
@@ -37,14 +37,28 @@ layout: page
 
 # Events
 
+- **[Workshop on Fixpoint Logics And Proof Systems](https://jkloibhofer.github.io/flaps/).**
+    *Amsterdam,* 12 March 2026. <mark>organizer</mark>
+- **[CSL 2026](https://csl2026.github.io/).**
+    *Paris,* 24--27 February 2026. \
+    Talk: The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories (Matteo Spadetto).
+    [slides](assets/slides/the_biequivalence_of_path_categories_and_axiomatic_Martin_Loef_type_theories_csl_2026.pdf){: .button}
+- **[FICS 2026](https://csl2026.github.io/).**
+    *Paris,* 23--24 February 2026. \
+    Talk: Unravelling Abstract Cyclic Proofs into Proofs by Induction.
+    [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button}
 - **[International School on Logical Frameworks and Proof Systems Interoperability](https://europroofnet.github.io/LFPSI25/).**
     *Orsay,* 8--11 September 2025.
 - **[The Proof Society 2025](https://proof2025.ugent.be/).**
     *Ghent,* 1--5 September 2025. \
-    Talk: Matching (Co)patterns with Cyclic Proofs.
+    Talk: Matching (Co)patterns with Cyclic Proofs (Lide Grotenhuis).
     [slides](assets/slides/cyclic_type_theory_slides_the_proof_society.pdf){: .button}
 - **[CT 2025](https://conference.math.muni.cz/ct2025/).**
     *Brno,* 13--19 July 2025.
+- **[NetTCS](https://nettcs.cs.ru.nl/previous_meetings.html).**
+    *Groningen,* 27 June 2025. \
+    Talk: Matching (Co)patterns with Cyclic Proofs (Lide Grotenhuis).
+    [slides](assets/slides/cyclic_type_theory_slides_the_proof_society.pdf){: .button}
 - **[TYPES 2025](https://msp.cis.strath.ac.uk/types2025/).**
     *Glasgow,* 9--15 June 2025. \
     Talk: Matching (Co)patterns with Cyclic Proofs.

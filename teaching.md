@@ -8,7 +8,7 @@ layout: page
 
 - **A Realisability Model of Dependent Type Theory with Sizes.** \
     MSC Logic Thesis, *University of Amsterdam*, 2025. \
-    Student: Bas Laarakker.
+    Student: Bastiaan Laarakker.
 - **[Simplicial Homotopy Type Theory](https://scripties.uba.uva.nl/search?id=record_55571).** \
     MSc Mathematics Thesis, *University of Amsterdam*, 2024. \
     Student: George Magafossis.
