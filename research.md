@@ -4,16 +4,25 @@ title: "Research"
 layout: page
 ---
 
+# Preprints
+
+- **Unravelling Abstract Cyclic Proofs into Proofs by Induction.** \
+  Coauthor: Lide Grotenhuis. \
+  [paper](https://arxiv.org/abs/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button}
+- **Constructing (Co)inductive Types via Large Sizes.** \
+  Coauthors: Benno van den Berg and Bastiaan Laarakker. \
+  [paper](https://arxiv.org/abs/2602.18921){: .button} [slides](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button}
+
 # Publications
 
 - **The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories.** \
-    Accepted at CSL 2026. \
+    [LIPIcs, Volume 363, CSL 2026](https://doi.org/10.4230/LIPIcs.CSL.2026.38). \
     Coauthor: Matteo Spadetto. \
-    [paper](https://arxiv.org/abs/2503.15431){: .button}
+    [paper](https://arxiv.org/abs/2503.15431){: .button} [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.38/metadata/bibtex){: .button}
 - **[Conservativity of Type Theory over Higher-order Arithmetic](https://arxiv.org/abs/2308.15288).** \
     [LIPIcs, Volume 288, CSL 2024](https://doi.org/10.4230/LIPIcs.CSL.2024.44). \
     Coauthor: Benno van den Berg. \
-    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol288-csl2024/LIPIcs.CSL.2024.44/LIPIcs.CSL.2024.44.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](assets/bibtex/conservativity_of_type_theory_over_higher_order_arithmetic.txt){: .button}
+    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol288-csl2024/LIPIcs.CSL.2024.44/LIPIcs.CSL.2024.44.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2024.44/metadata/bibtex){: .button}
 
 # Theses
 

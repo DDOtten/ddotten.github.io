@@ -1,0 +1,9 @@
+@misc{grotenhuis2026unravellingabstractcyclicproofs,
+      title={Unravelling Abstract Cyclic Proofs into Proofs by Induction}, 
+      author={Lide Grotenhuis and Daniël Otten},
+      year={2026},
+      eprint={2602.12054},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2602.12054}, 
+}

@@ -1,0 +1,9 @@
+@misc{berg2026constructingcoinductivetypeslarge,
+      title={Constructing (Co)inductive Types via Large Sizes}, 
+      author={Benno van den Berg and Bastiaan Laarakker and Daniël Otten},
+      year={2026},
+      eprint={2602.18921},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2602.18921}, 
+}
