@@ -91,7 +91,7 @@ layout: page
     *Ljubljana,* 1--11 August 2023.
 - **[CT 2023](https://sites.uclouvain.be/ct2023/).**
     *Louvain-la-Neuve,* 2--8 July 2023.
-- **[Logic PhD-Day 2024](https://www.verenigingvoorlogica.nl/nl/PhD-Day/).**
+- **[Dutch Logic PhD-Day 2023](https://www.verenigingvoorlogica.nl/nl/PhD-Day/).**
     *Groningen,* 23 June 2023. <mark>organizer</mark>
 - **[TYPES 2023](https://types2023.webs.upv.es/).**
     *Valentia,* 12--15 June 2023. \
