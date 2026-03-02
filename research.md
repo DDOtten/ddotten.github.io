@@ -29,7 +29,7 @@ layout: page
 - **[De Jongh's Theorem for Type Theory](https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf).** \
     MSc Thesis, *University of Amsterdam*, 2022. \
     Supervisor: Benno van den Berg. \
-    [thesis](https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf){: .button} [slides](assets/slides/de_jonghs_theorem_for_type_theory_slides.pdf){: .button} [cite](assets/bibtex/de_jonghs_theorem_for_type_theory.txt){: .button} <br/><br/>
+    [thesis](https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf){: .button} [slides](assets/slides/de_jonghs_theorem_for_type_theory_slides.pdf){: .button} [cite](assets/bibtex/de_jonghs_theorem_for_type_theory.txt){: .button}
 - **[M-types and Bisimulation](https://theses.liacs.nl/pdf/2019-2020-OttenDD.pdf).** \
     BSc Thesis, *Leiden University*, 2020. \
     Supervisors: Henning Basold, Peter Bruin. \
