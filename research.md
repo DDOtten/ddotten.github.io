@@ -38,7 +38,7 @@ layout: page
 # Events
 
 - **[SSTT 2026](https://ul-fmf.github.io/mfps-sstt-2026/sstt/).**
-    *Ljubljana* June 4--5 2026.
+    *Ljubljana,* June 4--5 2026.
 - **[TYPES 2026](https://types2026.cse.chalmers.se/index.html).**
     *Gothenburg,* 4--8 May 2026. \
     Talk: Unravelling Abstract Cyclic Proofs into Proofs by Induction.
