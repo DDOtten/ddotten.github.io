@@ -10,19 +10,19 @@ layout: page
   Coauthor: Lide Grotenhuis. \
   [paper](https://arxiv.org/pdf/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button}
 - **[Constructing (Co)inductive Types via Large Sizes](https://arxiv.org/abs/2602.18921).** \
-  Coauthors: Bastiaan Laarakker and Benno van den Berg. \
   Accepted at [FSCD 2026](https://fscd2026.github.io/). \
+  Coauthors: Bastiaan Laarakker and Benno van den Berg. \
   [paper](https://arxiv.org/pdf/2602.18921){: .button} [cite](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button}
 
 # Publications
 
 - **[The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf).** \
-    Coauthor: Matteo Spadetto. \
     [LIPIcs, Volume 363, CSL 2026](https://doi.org/10.4230/LIPIcs.CSL.2026.38). \
+    Coauthor: Matteo Spadetto. \
     [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf){: .button} [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.38/metadata/bibtex){: .button}
 - **[Conservativity of Type Theory over Higher-order Arithmetic](https://arxiv.org/abs/2308.15288).** \
-    Coauthor: Benno van den Berg. \
     [LIPIcs, Volume 288, CSL 2024](https://doi.org/10.4230/LIPIcs.CSL.2024.44). \
+    Coauthor: Benno van den Berg. \
     [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol288-csl2024/LIPIcs.CSL.2024.44/LIPIcs.CSL.2024.44.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2024.44/metadata/bibtex){: .button}
 
 # Theses
