@@ -38,6 +38,8 @@ layout: page
 
 # Events
 
+- **[AiML 2026](https://events.illc.uva.nl/aiml2026/)**
+    *Amsterdam,* 29 June -- 3 July 2026. <mark>organizer</mark>
 - **[SSTT 2026](https://ul-fmf.github.io/mfps-sstt-2026/sstt/).**
     *Ljubljana,* 4--5 June 2026.
 - **[TYPES 2026](https://types2026.cse.chalmers.se/index.html).**
