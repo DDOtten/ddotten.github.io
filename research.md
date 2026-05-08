@@ -43,7 +43,7 @@ layout: page
 - **[TYPES 2026](https://types2026.cse.chalmers.se/index.html).**
     *Gothenburg,* 4--8 May 2026. \
     Talk: Unravelling Abstract Cyclic Proofs into Proofs by Induction.
-    [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_types_2026.pdf){:. button}
+    [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_types_2026.pdf){: .button}
 - **[Workshop on Fixpoint Logics And Proof Systems](https://jkloibhofer.github.io/flaps/).**
     *Amsterdam,* 12 March 2026. <mark>organizer</mark>
 - **[CSL 2026](https://csl2026.github.io/).**
