@@ -10,7 +10,7 @@ layout: page
   Coauthor: Lide Grotenhuis. \
   [paper](https://arxiv.org/pdf/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button}
 - **[Constructing (Co)inductive Types via Large Sizes](https://arxiv.org/abs/2602.18921).** \
-  Accepted at [FSCD 2026](https://fscd2026.github.io/). \
+  Accepted at [FSCD 2026](https://fscd2026.github.io/). <mark>Best Paper by Junior Researchers</mark> \
   Coauthors: Bastiaan Laarakker and Benno van den Berg. \
   [paper](https://arxiv.org/pdf/2602.18921){: .button} [cite](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button}
 
