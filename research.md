@@ -8,33 +8,44 @@ layout: page
 
 - **[Unravelling Abstract Cyclic Proofs into Proofs by Induction](https://arxiv.org/abs/2602.12054).** \
   Coauthor: Lide Grotenhuis. \
-  [paper](https://arxiv.org/pdf/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button}
+  [paper](https://arxiv.org/pdf/2602.12054){: .button} [slides](assets/slides/unravelling_abstract_cyclic_proofs_into_proofs_by_induction_slides_fics_2026.pdf){: .button} [cite](assets/bibtex/unravelling_abstract_cyclic_proofs_into_proofs_by_induction.txt){: .button} \
+  We show how proofs of any cyclic proof system can be translated to proofs by well-founded induction in an induced non-cyclic proof system.
+  Moreover, we preserve proof structure, and apply our results to (Cyclic) Heyting Arithmetic, and functions satisfying size-change termination.
 - **[Constructing (Co)inductive Types via Large Sizes](https://arxiv.org/abs/2602.18921).** \
   Accepted at [FSCD 2026](https://fscd2026.github.io/) as <mark>best paper by junior researchers</mark>. \
   Coauthors: Bastiaan Laarakker and Benno van den Berg. \
-  [paper](https://arxiv.org/pdf/2602.18921){: .button} [cite](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button}
+  [paper](https://arxiv.org/pdf/2602.18921){: .button} [cite](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button} \
+  We show how parametric quantifiers over a type of large sizes/ordinals can be used to define all (co)inductive types.
+  Moreover, we show consistency of the theory using a realizability model.
 
 # Publications
 
 - **[The Biequivalence of Path Categories and Axiomatic Martin-Löf Type Theories](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf).** \
     [LIPIcs, Volume 363, CSL 2026](https://doi.org/10.4230/LIPIcs.CSL.2026.38). \
     Coauthor: Matteo Spadetto. \
-    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf){: .button} [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.38/metadata/bibtex){: .button}
+    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol363-csl2026/LIPIcs.CSL.2026.38/LIPIcs.CSL.2026.38.pdf){: .button} [slides](assets/slides/models_for_axiomatic_type_theory_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.38/metadata/bibtex){: .button} \
+    We prove an internal language theorem: models of axiomatic \(=\)-types, and intensional \(1,\Sigma\) are biequivalent to certain path categories, while adding axiomatic \(\Pi\) yields dependent homotopy exponents.
+    In addition, we prove a coherence theorem, and define a more modular notion.
 - **[Conservativity of Type Theory over Higher-order Arithmetic](https://arxiv.org/abs/2308.15288).** \
     [LIPIcs, Volume 288, CSL 2024](https://doi.org/10.4230/LIPIcs.CSL.2024.44). \
     Coauthor: Benno van den Berg. \
-    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol288-csl2024/LIPIcs.CSL.2024.44/LIPIcs.CSL.2024.44.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2024.44/metadata/bibtex){: .button}
+    [paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol288-csl2024/LIPIcs.CSL.2024.44/LIPIcs.CSL.2024.44.pdf){: .button} [slides](assets/slides/conservativity_of_type_theory_over_higher_order_arithmetic_slides.pdf){: .button} [cite](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2024.44/metadata/bibtex){: .button} \
+    We prove conservativity of impredicative type theory over Higher-order Heyting Arithmetic.
+    In detail: a proof-irrelevant interpretation satisfies exactly the same higher-order formulas, while a proof-relevant interpretation satisfies more second-order, but  the same first-order formulas.
 
 # Theses
 
 - **[De Jongh's Theorem for Type Theory](https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf).** \
     MSc Thesis, *University of Amsterdam*, 2022. \
     Supervisor: Benno van den Berg. \
-    [thesis](https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf){: .button} [slides](assets/slides/de_jonghs_theorem_for_type_theory_slides.pdf){: .button} [cite](assets/bibtex/de_jonghs_theorem_for_type_theory.txt){: .button}
+    [thesis](https://eprints.illc.uva.nl/id/eprint/2229/1/MoL-2022-27.text.pdf){: .button} [slides](assets/slides/de_jonghs_theorem_for_type_theory_slides.pdf){: .button} [cite](assets/bibtex/de_jonghs_theorem_for_type_theory.txt){: .button} \
+    We prove the conservativity of Second-order Propositional Lambda Calculus over Second-order Heyting Arithmetic, and lift De Jongh's theorem to type theory: the only propositional formulas that are globally valid are the intuitionistic theorems.
 - **[M-types and Bisimulation](https://theses.liacs.nl/pdf/2019-2020-OttenDD.pdf).** \
     BSc Thesis, *Leiden University*, 2020. \
     Supervisors: Henning Basold, Peter Bruin. \
-    [thesis](https://theses.liacs.nl/pdf/2019-2020-OttenDD.pdf){: .button} [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button} [cite](assets\bibtex\m_types_and_bisimulation.txt){: .button}
+    [thesis](https://theses.liacs.nl/pdf/2019-2020-OttenDD.pdf){: .button} [slides](assets\slides\m_types_and_bisimulation_slides.pdf){: .button} [cite](assets\bibtex\m_types_and_bisimulation.txt){: .button} \
+    We consider 5 definitions for coinductive \(\rm M\)-types, and show how they compare.
+    In particular, we state finality using bisimulations, and formalize our results in Agda.
 
 # Events
 
