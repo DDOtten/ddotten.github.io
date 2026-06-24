@@ -14,7 +14,7 @@ layout: page
 - **[Constructing (Co)inductive Types via Large Sizes](https://arxiv.org/abs/2602.18921).** \
   Accepted at [FSCD 2026](https://fscd2026.github.io/) as <mark>best paper by junior researchers</mark>. \
   Coauthors: Bastiaan Laarakker and Benno van den Berg. \
-  [paper](https://arxiv.org/pdf/2602.18921){: .button} [cite](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button} \
+  [paper](https://arxiv.org/pdf/2602.18921){: .button} [slides](assets/slides/constructing_(co)inductive_types_using_an_impredicative_universe_or_parametric_sizes.pdf){: .button} [cite](assets/bibtex/constructing_(co)inductive_types_via_large_sizes.txt){: .button} \
   We show how parametric quantifiers over a type of large sizes/ordinals can be used to define all (co)inductive types.
   Moreover, we show consistency of the theory using a realizability model.
 
