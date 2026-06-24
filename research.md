@@ -51,11 +51,11 @@ layout: page
 
 - **[AiML 2026](https://events.illc.uva.nl/aiml2026/).**
     *Amsterdam,* 29 June -- 3 July 2026. <mark>organizer</mark>
-- **Research visit Ambrus Kaposi.**
+- **Research visit [Ambrus Kaposi](https://akaposi.github.io/).**
     *Budapest,* 21--28 June 2026. \
     Talk: Constructing (Co)inductive Types using either an Impredicative Universe, or Large Parametric Sizes.
     [slides](assets/slides/constructing_(co)inductive_types_using_an_impredicative_universe_or_parametric_sizes.pdf){: .button}
-- **Research visit Meven Lennon-Bertrand and Alexis Saurin.**
+- **Research visit [Meven Lennon-Bertrand](https://www.meven.ac/) and [Alexis Saurin](https://www.irif.fr/users/saurin/index).**
     *Paris,* 8--13 June 2026. \
     Talk: Constructing (Co)inductive Types using either an Impredicative Universe, or Large Parametric Sizes.
     [slides](assets/slides/constructing_(co)inductive_types_using_an_impredicative_universe_or_parametric_sizes.pdf){: .button}
@@ -93,7 +93,7 @@ layout: page
     [slides](https://msp.cis.strath.ac.uk/types2025/slides/TYPES2025-slides56.pdf){: .button}
 - **[PSSL 107](https://b-starkenburg.github.io/PSSL-2024/).**
     *Leiden,* 15--17 November 2024. <mark>organizer</mark>
-- **Research visit Bahareh Afshari, Graham Leigh, and Andreas Abel.**
+- **Research visit [Bahareh Afshari](https://www.gu.se/en/about/find-staff/baharehafshari), [Graham Leigh](https://www.gu.se/en/about/find-staff/grahamleigh), and [Andreas Abel](https://www.cse.chalmers.se/~abela/).**
     *Gothenburg,* 23 August -- 29 September 2024. \
     Talk: Cyclic Type Theory (30 August, Gothenburg University). \
     Talk: Cyclic Type Theory (11 September, Proglog, Chalmers).
